@@ -1,0 +1,5 @@
+Choosing the Most Cost-Effective Printer:
+I evaluated three printer options for both Susan and Tim, considering initial costs, cost per page, and cartridge capacity. I analyzed usage scenarios, with Susan planning to print about 15 pages daily and Tim aiming for 500 pages per day.
+To determine the most cost-effective choice, I calculated the total cost of ownership for each printer over a two-year period, using a spreadsheet to factor in all relevant costs. I then created bar charts to visually compare the total costs for each printer option, allowing for a clear financial analysis.
+Additionally, I carefully examined the small print details and supplies costs associated with each printer to ensure a comprehensive evaluation.
+My approach involved a thorough examination of printer specifications, precise cost calculations, and the creation of visual aids to facilitate informed decision-making. I considered not only initial costs but also the total cost of ownership, taking into account the unique printing needs of each individual.
