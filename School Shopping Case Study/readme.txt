@@ -1,0 +1,1 @@
+Susan and Tim would buy school supplies, and they were both confused about where they bought them. They would spend as little money as possible on school shopping. Problem solved using Excel, and they both find the store that spends as little money as possible according to their school shopping list.
