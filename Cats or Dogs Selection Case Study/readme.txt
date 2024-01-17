@@ -1,0 +1,1 @@
+Susan is very confused about the pet selection. She would buy a pet and spend as little money as possible on it, using Excel. Problem solved.
